@@ -14,6 +14,7 @@ full midi website: [rbkz.net/midi](https://rbkz.net/midi/)
 * `07_very_old        ` - old and bad
 
 ## license: CC-BY-4.0
-![CC-BY](by.png "CC-BY")
 
 short version: use these files for whatever you want, commercial or otherwise, just credit me somewhere.
+
+![CC-BY](by.png "CC-BY")
