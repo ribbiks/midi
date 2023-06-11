@@ -9,7 +9,7 @@ full midi website: [rbkz.net/midi](https://rbkz.net/midi/)
 * `02_rats_tiger_oxen ` - 2019 - 2022
 * `03_riff_zone       ` - all the hottest RIFFS
 * `04_somewhat_old    ` - various things from the 2010s
-* `05_doom_wad        ` - written for specific doom mods (does not inclulde covers)
+* `05_doom_wad        ` - written for specific doom mods (does not include covers)
 * `06_speedmidi       ` - from a month in 2015 when I was trying to write a new midi every day
 * `07_very_old        ` - old and bad
 
